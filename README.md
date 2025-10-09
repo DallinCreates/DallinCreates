@@ -10,13 +10,14 @@ I’m passionate about projects that challenge conventional approaches to work a
 
 - [Floride](https://dallinking.com/project/Floride): A visual software IDE that integrates the entire software life cycle, making software development easier and more maintainable.
 - [Pivot Calendar](https://pivotcal.com/): A daily planner app designed to help users manage their time more efficiently by prioritizing important events and tasks.
+- [Country Swing site](https://countryswing.dallinking.com/): A centeralized place for people to learn country swing and join the community.
 
 ### 🚀 Past Projects
 
 - Rocket League AI Bot: Created a bot that learns how to play Rocket League through training and reinforcement learning.
-- [Rocket League Tournament Cup Chances](https://docs.google.com/spreadsheets/d/1XQqc1ifU6X6KuMa1nTLUFQk6xNBQ6SCVkRi0rp19zYY/edit?usp=sharing): Applied Statics to analyze the drop chance of Rocket League Tournament Cups
-- BYU End to End Automated Testing: This was a script written in python that automated the running of all of our test cases; afterwhich, it would generate a report of what failed and succeded.
-- BYU Catchup Integration: This was a business process pipe line that caught up the data from BYU's new ERP System.
+- [Rocket League Tournament Cup Chances](https://blog.dallinking.com/post/rocket-league-tournament-cup-chances): Applied Statics to analyze the drop chance of Rocket League Tournament Cups
+- [BYU End to End Automated Testing](https://bio.dallinking.com/project/BYU_End_To_End_Testing): This was a script written in python that automated the running of all of our test cases; afterwhich, it would generate a report of what failed and succeded.
+- [BYU Catchup Integration](https://bio.dallinking.com/project/BYU_Catchup_Transactions): This was a business process pipe line that caught up the data from BYU's new ERP System.
 
 ### 🌱 Future Projects
 
