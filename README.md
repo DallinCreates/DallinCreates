@@ -29,7 +29,7 @@ I’m passionate about projects that challenge conventional approaches to work a
 
 - Rocket League AI Bot: Developed an AI that learns and improves its gameplay.
 - [UDOT Competition](https://www.youtube.com/watch?v=pMoVSBUx1tk&t=6793s): Designed a winning application in the UDOT App Design Competition, placing 1st in 2019.
-- [Rocket League Team](https://www.instagram.com/p/CN1B2O7skEx/): Ranked 14th nationally in a 3v3 high school Rocket League competition.
+- [Rocket League Team](https://www.instagram.com/p/CN1B2O7skEx/): Ranked 23rd nationally in a 3v3 high school Rocket League competition.
 
 ## 💡 Philosophy
 
