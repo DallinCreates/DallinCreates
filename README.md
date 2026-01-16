@@ -8,7 +8,7 @@ I’m an inventive engineer and lifelong learner, dedicated to building tools an
 
 I’m passionate about projects that challenge conventional approaches to work and daily life. Some of my key projects include:
 
-- [Floride](https://dallinking.com/project/Floride): A visual software IDE that integrates the entire software life cycle, making software development easier and more maintainable.
+- Floride: A visual software IDE that integrates the entire software life cycle, making software development easier and more maintainable.
 - [Pivot Calendar](https://pivotcal.com/): A daily planner app designed to help users manage their time more efficiently by prioritizing important events and tasks.
 - [Country Swing site](https://countryswing.dallinking.com/): A centeralized place for people to learn country swing and join the community.
 
@@ -39,7 +39,7 @@ I believe in questioning traditional methods and exploring innovative solutions 
 
 Here are some of the technologies I’m experienced with:
 
-- Languages: C, C++, Python, Java, HTML, JavaScript, CSS
+- Languages: C, C++, Python, Java, HTML, JavaScript, CSS, and more
 - Scripting Laguages: Perl, PowerShell
 - Frameworks/Tools: React, Node.js
 - Cloud/DevOps: AWS (set up multiple servers, Route 53 domains, Caddy files)
